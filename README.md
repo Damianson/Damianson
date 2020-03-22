@@ -6,4 +6,4 @@
          -Mobile\
  Courses: -Flutter\
           -HTML-CSS-JavaScript\
-          -Python\
+          -Python
